@@ -205,7 +205,7 @@ border-radius: 4px;
 padding: 16px 32px;
 height: 56px;
 cursor: pointer;
-transition: bacground-color 250ms cubic-bezier(0.4,0,0.2,1);
+transition: background-color 250ms cubic-bezier(0.4,0,0.2,1);
 }
 
 .heading-xl-button:hover,
@@ -329,6 +329,10 @@ background-color: #404bbf;
 
 .icon-socials{
 fill: #F4F4FD;
+}
+
+.socials-img{
+transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 
